@@ -2,7 +2,9 @@
 
 Aplikasi ini dibuat menggunakan **Streamlit** untuk membantu pembuatan **Buku Klapper/Kliper Siswa** jenjang **SD, SMP, dan SMA**.  
 Pengguna dapat memilih jenjang sekolah, mengisi nama sekolah, memasukkan data siswa melalui Excel atau input manual, lalu mengunduh hasil akhir dalam format **Excel `.xlsx`** dengan tampilan tabel seperti format Buku Klapper.
+
 Link Aplikasi : https://buku-klapper-dapodik-siswa-sd-sma-cutqqevxqgnune7xdtlg6j.streamlit.app/
+
 ---
 
 ## 1. Fitur Aplikasi
